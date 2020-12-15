@@ -29,7 +29,7 @@ The main() function opens a .txt file that contains one integer per line. The na
 
 
 ***
-**Binary Search Tree.cpp**
+**Class.cpp**
 
 This part of the project is a C++ implementation of a storing system for class students.
 
