@@ -7,7 +7,7 @@ This projects implements a number of sorting and searching algorithms, as well a
 
 The main() function opens a .txt file that contains one integer per line. The name of the file is declared in main().
 
-**Sorting
+**Sorting**
 1. Bubble Sort
 2. Insertion Sort
 3.  Selection Sort
